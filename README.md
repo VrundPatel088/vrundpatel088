@@ -44,62 +44,26 @@ I'm currently seeking opportunities in **Data Analytics, Data Engineering, Data 
 
 ## 🚀 Featured Projects
 
-### 📊 [Risk Analysis & Credit Scoring System](https://github.com/VrundPatel088/risk-analysis-credit-scoring)
-Analyzed **500,000+ financial records** to evaluate credit risk, identify patterns, and build predictive models.
-
-**Tech:** Python • R • Pandas • Scikit-learn • XGBoost • Statistical Modeling
-
-**Highlights:**
-- Performed data preprocessing, EDA, feature engineering, and model evaluation
-- Compared Logistic Regression, Random Forest, and XGBoost models
-- Achieved **99.77% accuracy** with Random Forest
-- Reduced prediction error by **40%** compared with baseline
+| Project | What It Does | Stack | Result |
+|---|---|---|---|
+| 📊 [Risk Analysis & Credit Scoring](https://github.com/VrundPatel088/risk-analysis-credit-scoring) | Credit risk analysis and predictive modeling on 500,000+ financial records | Python • R • Scikit-learn • XGBoost | **99.77% accuracy** |
+| 🚆 [Train Reservation System](https://github.com/VrundPatel088/Train-System-Reservation) | Full-stack train scheduling, booking, and reservation management system | Java • JSP • JDBC • MySQL | **100+ concurrent sessions** |
+| 🚌 [RU-PATH](https://github.com/Parth2003007/RU-Parking) | AI-powered Rutgers parking and transit assistant | Python • Flask • React • DeepSeek API | AI chatbot + parking search |
+| 🎬 Movie Revenue Dashboard | Interactive BI dashboard analyzing movie revenue and profitability | Tableau • KPI Analysis | Interactive business insights |
 
 ---
 
-### 🎬 Movie Revenue Analysis Dashboard
-Built an interactive **Tableau BI dashboard** to analyze movie performance and transform raw data into actionable business insights.
+## 📌 Currently
 
-**Tech:** Tableau • Data Visualization • Data Cleaning • KPI Analysis • Calculated Fields
+- 🎓 Computer Science & Data Science graduate from **Rutgers University–New Brunswick**
+- 🏆 **3.56 GPA • Dean's List 2024–2026**
+- 💼 Seeking full-time **Data Analyst • Data Engineer • Data Scientist • AI/ML** opportunities
+- 📍 Open to opportunities in **New Jersey • New York • Remote • Relocation**
+- 📫 Reach me at **vrundpatel641@gmail.com**
 
-**Highlights:**
-- Analyzed revenue, budgets, profitability, ratings, genres, and production companies
-- Built KPIs, calculated fields, parameters, dynamic filters, and drill-down functionality
-- Cleaned, transformed, validated, and integrated multiple datasets
-- Created profitability metrics to compare production investment with box office performance
-- Applied data storytelling to communicate insights to technical and non-technical stakeholders
-
----
-
-### 🚆 [Train Reservation System](https://github.com/VrundPatel088/Train-System-Reservation)
-Developed a full-stack reservation platform for searching train schedules, booking tickets, managing reservations, and cancellations.
-
-**Tech:** Java • JSP • JDBC • MySQL • SQL • Apache Tomcat • Maven • HTML • CSS
-
-**Highlights:**
-- Designed a normalized **MySQL relational database** for users, trains, routes, schedules, and reservations
-- Implemented role-based authentication, session management, and CRUD operations
-- Optimized SQL queries and backend logic to support **100+ concurrent user sessions**
-- Used JDBC prepared statements for secure database interactions and SQL injection protection
-- Deployed and managed the application using Apache Tomcat and Maven
-
----
-
-### 🚌 [RU-PATH: AI-Powered Campus Parking & Transit Chatbot](https://github.com/Parth2003007/RU-Parking)
-Built a data-driven campus parking and transit system with real-time routing and intelligent recommendations.
-
-**Tech:** Python • Flask • React • JavaScript • REST APIs • DeepSeek API
-
-**Highlights:**
-- Built an AI-powered chatbot for Rutgers parking and transit queries
-- Developed a React frontend with a Flask REST API backend
-- Integrated structured parking-lot and Rutgers bus-route data
-- Implemented conversation session management and parking search functionality
-  
 ---
 
 ## 📫 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/vrund-patel-ba042b264/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn"/>
