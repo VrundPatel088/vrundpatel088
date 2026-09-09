@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vrund Patel</h1>
 
-<!--
-**VrundPatel088/vrundpatel088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science & Data Science Graduate | Data Analyst | Data Engineer | Data Science | AI/ML
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Turning data into insights and building scalable, data-driven solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Data Science graduate from **Rutgers University**
+- 📊 Interested in **Data Analytics, Data Engineering, Data Science & AI/ML**
+- 💻 Working with **Python, SQL, ETL/ELT, Data Modeling, Tableau & Power BI**
+- 📈 Interested in **financial analytics, predictive modeling & business intelligence**
+- 📍 New Jersey, USA
