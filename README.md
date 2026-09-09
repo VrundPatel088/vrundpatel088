@@ -85,7 +85,7 @@ Developed a full-stack reservation platform for searching train schedules, booki
 
 ---
 
-### 🚌 RU-PATH: AI-Powered Campus Parking & Transit Chatbot
+### 🚌 [RU-PATH: AI-Powered Campus Parking & Transit Chatbot](https://github.com/Parth2003007/RU-Parking)
 Built a data-driven campus parking and transit system with real-time routing and intelligent recommendations.
 
 **Tech:** Python • SQL • MySQL • Pandas • NumPy • REST APIs • Scikit-learn
