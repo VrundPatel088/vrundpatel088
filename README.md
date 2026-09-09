@@ -12,11 +12,11 @@ Turning data into insights and building scalable, data-driven solutions.
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Data Science graduate from **Rutgers University**
-- 📊 Interested in **Data Analytics, Data Engineering, Data Science & AI/ML**
-- 💻 Working with **Python, SQL, ETL/ELT, Data Modeling, Tableau & Power BI**
-- 📈 Interested in **financial analytics, predictive modeling & business intelligence**
-- 📍 New Jersey, USA
+I'm a **Computer Science & Data Science graduate from Rutgers University–New Brunswick**, where I completed a **double major** with a **3.56 GPA** and earned **Dean's List recognition from 2024–2026**. I'm focused on **Data Analytics, Data Engineering, Data Science, and AI/ML**, with a strong interest in turning complex data into reliable, actionable solutions.
+
+I've worked across **Python, SQL, ETL/ELT, relational databases, machine learning, and business intelligence** — from analyzing **500,000+ financial records** to building interactive Tableau dashboards, database-driven systems, and AI-powered applications. I enjoy learning through hands-on development and solving real-world data problems.
+
+I'm currently seeking opportunities in **Data Analytics, Data Engineering, Data Science, and AI/ML**, where I can apply my technical foundation, analytical thinking, and problem-solving skills to create meaningful business impact.
 
 ---
 
@@ -95,3 +95,16 @@ Built a data-driven campus parking and transit system with real-time routing and
 - Built Python-based data pipelines for real-time routing
 - Improved data reliability and accuracy by **30%**
 - Developed AI-powered search and recommendation functionality
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vrundpatel641@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" height="42" alt="Email"/>
+  </a>
+</p>
