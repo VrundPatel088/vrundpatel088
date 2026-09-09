@@ -88,13 +88,14 @@ Developed a full-stack reservation platform for searching train schedules, booki
 ### 🚌 [RU-PATH: AI-Powered Campus Parking & Transit Chatbot](https://github.com/Parth2003007/RU-Parking)
 Built a data-driven campus parking and transit system with real-time routing and intelligent recommendations.
 
-**Tech:** Python • SQL • MySQL • Pandas • NumPy • REST APIs • Scikit-learn
+**Tech:** Python • Flask • React • JavaScript • REST APIs • DeepSeek API
 
 **Highlights:**
-- Designed relational SQL data models with indexing and validation checks
-- Built Python-based data pipelines for real-time routing
-- Improved data reliability and accuracy by **30%**
-- Developed AI-powered search and recommendation functionality
+- Built an AI-powered chatbot for Rutgers parking and transit queries
+- Developed a React frontend with a Flask REST API backend
+- Integrated structured parking-lot and Rutgers bus-route data
+- Implemented conversation session management and parking search functionality
+  
 ---
 
 ## 📫 Connect With Me
