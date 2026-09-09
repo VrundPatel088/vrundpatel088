@@ -71,7 +71,7 @@ Built an interactive **Tableau BI dashboard** to analyze movie performance and t
 
 ---
 
-### 🚆 Train Reservation System
+### 🚆 [Train Reservation System](https://github.com/VrundPatel088/Train-System-Reservation)
 Developed a full-stack reservation platform for searching train schedules, booking tickets, managing reservations, and cancellations.
 
 **Tech:** Java • JSP • JDBC • MySQL • SQL • Apache Tomcat • Maven • HTML • CSS
