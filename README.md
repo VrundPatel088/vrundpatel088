@@ -44,7 +44,7 @@ I'm currently seeking opportunities in **Data Analytics, Data Engineering, Data 
 
 ## 🚀 Featured Projects
 
-### 📊 Risk Analysis & Credit Scoring System
+### 📊 [Risk Analysis & Credit Scoring System](https://github.com/VrundPatel088/risk-analysis-credit-scoring)
 Analyzed **500,000+ financial records** to evaluate credit risk, identify patterns, and build predictive models.
 
 **Tech:** Python • R • Pandas • Scikit-learn • XGBoost • Statistical Modeling
