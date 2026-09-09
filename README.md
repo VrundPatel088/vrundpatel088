@@ -100,7 +100,7 @@ Built a data-driven campus parking and transit system with real-time routing and
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vrund-patel-ba042b264/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
